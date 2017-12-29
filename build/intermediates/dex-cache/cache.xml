@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alip\.android\build-cache\000405ff5595cc0a213c11c8f28ec00e41cda908\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\UTS\app\build\intermediates\pre-dexed\debug\classes_6fe2ab786d95d3f95776e7e1b78335922f315b3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alip\.android\build-cache\17fdff7cb7aba6c0801e38db13cd2ca424450ef3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\UTS\app\build\intermediates\pre-dexed\debug\classes_13c8a577a0c800a4c454c670d136fa238fed3606.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alip\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\UTS\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_58e0f9a4cfa7d50de9708b67aba972e9fd1f30d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alip\.android\build-cache\0a4c1da9d10743078ec72add6cb4e8bc9171118e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\UTS\app\build\intermediates\pre-dexed\debug\classes_a2485513de3838c61e5dbe475cac5582811814e9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\UTS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\UTS\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3058ff2ddc9d13217c27e152adcfea6fe74e8149\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\UTS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dad158b13eb7f87ae57701c2ef4f04505e241d3d">
+        <dex dex="E:\UTS\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fbc3242adbdac4abb0b3a98899ba961c145f402f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alip\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\UTS\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_d4ffb2b6284aa47921970d17bf396f702aa47f94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alip\.android\build-cache\63e151902af839afc0b45611b4ce216c1073822b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\UTS\app\build\intermediates\pre-dexed\debug\classes_bafe5feb1db8bf9ab41f0b1b3daf7c063fa2895c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alip\.android\build-cache\58bc96eaae5f830d014b3ebce1e3da56c1620be3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\UTS\app\build\intermediates\pre-dexed\debug\classes_592d056ccee336fd10b059e95a102cda64bad759.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alip\.android\build-cache\bf5f39fd8ad2df215fec074a308ea3e9bde57627\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\UTS\app\build\intermediates\pre-dexed\debug\classes_a45c30dbf4852ea433b47c5ae600253aadce3a3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alip\.android\build-cache\7bc90f1fec6b8995bf7ce2502c742409e1ba7534\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\UTS\app\build\intermediates\pre-dexed\debug\classes_bdb467cf80cbafbf0e29ad2c9f4fc56ffd7b15a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alip\.android\build-cache\3c65518cf8bfc81f26e437dc36c098ee39477045\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\UTS\app\build\intermediates\pre-dexed\debug\classes_1a1aeb8735eddc2d03104b9173dc45cc1d8d9175.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alip\.android\build-cache\e46d15f446974a39ccef47145dc0835c87667209\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\UTS\app\build\intermediates\pre-dexed\debug\classes_46bd70bdbe4684bb1b787e05053d0cde2534d288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alip\.android\build-cache\0eb8a1193d30ad4c9fd8b2b9f6be327668420fec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\UTS\app\build\intermediates\pre-dexed\debug\classes_2c5be494c5b1c5bcb974e240158f8556fee76fe6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alip\.android\build-cache\417c0bb7c006f63b0ca3682bf66feb944e55be17\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="E:\UTS\app\build\intermediates\pre-dexed\debug\classes_595dfb9490c56ce430a80c8ff2a707b3a8296708.jar" />
+    </item>
+
+</items>

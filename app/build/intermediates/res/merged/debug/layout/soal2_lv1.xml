@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/kuis">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:textColor="#ffffff"
+        android:text="1. Apa  " />
+
+    <Button
+        android:id="@+id/answer1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Jakarta"
+        android:textColor="#ffffff"
+        android:background="#f345e5"
+        android:layout_marginBottom="17dp"
+        android:layout_above="@+id/answer2"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/answer2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bangkok"
+        android:textColor="#ffffff"
+        android:background="#f345e5"
+        android:layout_above="@+id/answer3"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="21dp" />
+
+    <Button
+        android:id="@+id/answer3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hanoi"
+        android:textColor="#ffffff"
+        android:background="#f345e5"
+        android:layout_marginBottom="25dp"
+        android:layout_above="@+id/answer4"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/answer4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dili"
+        android:textColor="#ffffff"
+        android:background="#f345e5"
+        android:layout_marginBottom="71dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        />
+</RelativeLayout>

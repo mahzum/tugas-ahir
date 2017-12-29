@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/kuis">
+
+    <TextView
+        android:id="@+id/question"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/answer1"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="32dp"
+        android:text="Text View"
+        android:textColor="#ffffff"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/answer1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Jakarta"
+        android:textColor="#ffffff"
+        android:background="#f345e5"
+        android:layout_marginBottom="16dp"
+        android:layout_above="@+id/answer2"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/answer2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bangkok"
+        android:textColor="#ffffff"
+        android:background="#f345e5"
+        android:layout_above="@+id/answer3"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/answer3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hanoi"
+        android:textColor="#ffffff"
+        android:background="#f345e5"
+        android:layout_marginBottom="16dp"
+        android:layout_above="@+id/answer4"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/answer4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dili"
+        android:textColor="#ffffff"
+        android:background="#f345e5"
+        android:layout_marginBottom="16dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:id="@+id/level"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        tools:text="Level 1"
+        android:gravity="center"/>
+    <TextView
+        android:id="@+id/score"
+        android:layout_below="@id/level"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textSize="24dp"
+        android:gravity="center"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>
